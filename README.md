@@ -30,11 +30,5 @@ The PowerBI dashboard allows users to interactively explore the data with filter
 -	Explore age demographics and tenure within each department to better understand career progression and retention factors.
 -	Visually assess employee distribution across states to strategize on potential new markets for talent acquisition.
 
-## Usage Instructions
-To view and interact with the analysis:
-1. Clone the repository to download all project files.
-2. Open the PowerBI file provided in the repository with PowerBI Desktop.
-3. Explore various visualizations that can be adjusted and customized according to specific data interests.
-
 ## Conclusion
 This project offers valuable insights into the company’s employment structure, providing a basis for strategic decision-making in human resources and management. The interactive PowerBI dashboard serves as a tool for continuous monitoring and analysis of workforce dynamics.
